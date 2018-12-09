@@ -1,0 +1,4 @@
+C:\Git_Repo\Repo\IIS_Utilities\Src\AuthenticatorHttpModule.ServerCleanup\obj\Debug\Authenticator.HttpModule.ServerCleanup.csprojAssemblyReference.cache
+C:\Git_Repo\Repo\IIS_Utilities\Src\AuthenticatorHttpModule.ServerCleanup\obj\Debug\Authenticator.HttpModule.ServerCleanup.Properties.Resources.resources
+C:\Git_Repo\Repo\IIS_Utilities\Src\AuthenticatorHttpModule.ServerCleanup\obj\Debug\Authenticator.HttpModule.ServerCleanup.csproj.GenerateResource.cache
+C:\Git_Repo\Repo\IIS_Utilities\Src\AuthenticatorHttpModule.ServerCleanup\obj\Debug\Authenticator.HttpModule.ServerCleanup.csproj.CoreCompileInputs.cache

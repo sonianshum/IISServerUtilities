@@ -1,0 +1,10 @@
+C:\Git_Repo\Repo\IIS_Utilities\Src\Bin\Debug\log4net.config
+C:\Git_Repo\Repo\IIS_Utilities\Src\Bin\Debug\Authenticator.HttpModule.dll
+C:\Git_Repo\Repo\IIS_Utilities\Src\Bin\Debug\Authenticator.HttpModule.pdb
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.csprojAssemblyReference.cache
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.Properties.Resources.resources
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.csproj.GenerateResource.cache
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.csproj.CoreCompileInputs.cache
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.csproj.CopyComplete
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.dll
+C:\Git_Repo\Repo\IIS_Utilities\Src\Autheticator.HttpModule\obj\Debug\Authenticator.HttpModule.pdb

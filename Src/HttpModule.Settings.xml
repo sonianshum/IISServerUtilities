@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/HttpModule.Configuration">
+  <SubscriptionKey></SubscriptionKey>
+  <AuthyEndPoint>https://test.endpoint.com/protected/json/</AuthyEndPoint>
+  <PushNotificationMessage>A login request has been initiated.</PushNotificationMessage>
+  <PushNotificationTimeout>60</PushNotificationTimeout>
+  <UserRepositorySettings>
+    <RepositoryType>AD</RepositoryType>
+    <ActiveDirectory>
+      <AnonymousLogin>false</AnonymousLogin>
+      <Password></Password>
+      <UserName></UserName>
+      <IsSsl>false</IsSsl>
+      <SearchUserPath></SearchUserPath>
+      <DomainName></DomainName>
+      <MapAttributes>
+        <UserName></UserName>
+        <Email>mail</Email>
+        <Mobile>mobile</Mobile>
+      </MapAttributes>
+    </ActiveDirectory>
+  </UserRepositorySettings>
+  <ProtectedSites>
+    <ProtectedSite>
+      <Name>Test.com</Name>
+      <IsChecked>true</IsChecked>
+      <Applications>
+        <Application>
+          <Name>Testapp1</Name>
+          <VirtualPath>/Testapp1</VirtualPath>
+        </Application>
+      </Applications>
+    </ProtectedSite>
+  </ProtectedSites>
+</Config>
