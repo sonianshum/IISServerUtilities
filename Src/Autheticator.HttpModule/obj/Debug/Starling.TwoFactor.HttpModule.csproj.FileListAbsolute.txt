@@ -1,9 +1,0 @@
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Bin\Debug\log4net.config
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Bin\Debug\Starling.TwoFactor.HttpModule.dll
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Bin\Debug\Starling.TwoFactor.HttpModule.pdb
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Starling.TwoFactor.HttpModule\obj\Debug\Starling.TwoFactor.HttpModule.Properties.Resources.resources
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Starling.TwoFactor.HttpModule\obj\Debug\Starling.TwoFactor.HttpModule.csproj.GenerateResource.cache
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Starling.TwoFactor.HttpModule\obj\Debug\Starling.TwoFactor.HttpModule.csproj.CoreCompileInputs.cache
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Starling.TwoFactor.HttpModule\obj\Debug\Starling.TwoFactor.HttpModule.csproj.CopyComplete
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Starling.TwoFactor.HttpModule\obj\Debug\Starling.TwoFactor.HttpModule.dll
-C:\Git_Repo\Repo\2FA-HTTP-Module\Src\Starling.TwoFactor.HttpModule\obj\Debug\Starling.TwoFactor.HttpModule.pdb
